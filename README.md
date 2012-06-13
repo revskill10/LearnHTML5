@@ -8,14 +8,14 @@
 
 ## CSS:
 
-   ### BOXES:
+### BOXES:
  
     Width and height
     Borders (color, width, style)
     Background color and images
     Position in the browser window
 
-  ### TEXT:
+### TEXT:
 
     Typeface
     Size
